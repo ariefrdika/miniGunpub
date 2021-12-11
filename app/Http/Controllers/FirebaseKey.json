@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "minigun-log-9ac8e",
+  "private_key_id": "fc4b8da2eb3d446f3e668bf10ae881573ec42041",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkJ5TA55mKYvgZ\ngoSzE3IoM2OZsE5x+v2qvOeR8sg0/YbpZ2Z07sg0A9EGoXdNzSNlaKnnzi7vRxhP\nMwCnzMDoUgWL8s7bsV6GNjQ22oYUH19CjqZ0iNQqluxwHc270/nkr1DFDx0VMW23\nNDpS/ywk9uAu8tX5h6viiPcIotUF1ONWd0Abe9384N2DwJmQccGkM5UfWrrgxpoW\nTo64ixV44C660IeQ1t7Kg6GV318WQAm0XDSVTchBtPOUrktMZtpmjMIETQ5JpmN4\naNPhmO5DbBmPpc4fEGRJx340GaBbCz8ouOtjeXpkTdAhp3aA23RLdh2wc6vibRn5\nHXw3XOFZAgMBAAECggEAEB+NczfyuW0+zfOzq8GMK9Pc3imv0316o3Ab18wt0pPX\njsNGQe11c7qQ0RyERTjh31rfBfEDz1hJeyBWM6WEPO698lrHfE5LqSWnuTgmaUHh\nzh7tW7cnMjbN8OrkRPmpE1yB01k684pVj/C2jfK3NIoHQ/4Yeby5HIZUGdXDAtk7\nSNYCQijH080zKhPMktRuvW08Z/x8x0ZI9BJY9HNQIw3+7sOhVS9oFk6SlSKv81Wp\nCMFaP2YeX7auuY0duiIbNX6LIdAukrEkPCAuqRiDdUyTapDolS0UPl4L7wTukGzU\ntnVkeDPXZ3Jg+sVTf8WjxJuHhdFOFaYEmJil35KhgQKBgQD2mXVdAvjD1+Hv9Y7I\n14a6FrwxosSPsfM4cvB5DufzNLtji+au1tYkML4HwGWLkHNFFAIKBmLS5L3DRr0j\nY+8XyfZuG+zZZffBHEh9NvU8ck/9J/XZzFyw8c/2icZ1ZvuVWL66WRZoABfyKTw9\nsVTgK50LlfwrxTd5VkOP7CZ9gQKBgQDs2h8Ez6vOXVjq9L0rYx+wZfsCDUn95ehI\nlfCTfnBPd8UyLJTelssMcAQ4T2JX58vusEOO/HsGZazamemmlcA2xFDsPXtxXEfc\naybkv/PDvIENXoc6piwdcn8sIEMJYbECxMkB7xkylk09HIRwqu0FodFk4ur5xTg2\nPvEVwjn/2QKBgQDOKUGLPx7GbEeBm2OB2V3TWYqAXLnEAFt8h+su6h1UoHNBKAb1\niLqCixVz2Y+LfHpB+BY0V15rPby/8vXRDo0m8DvLliEPJ0ZX9dNMi5O+szrYRH4v\nVcDwVVktncWDBVOzafwaQryOufVLCNpKIWT5/LxQoVWvKjPUhx/4xM7xAQKBgGRQ\neaTDBCQyGw/gOiKfJ/PBLY+P60+yyS+8+Ziui4jM1GNMyHyB51vMMa1bye4rSY89\nbk+oFb7+3zfyyif48uD/Qrrby2WWzQTJCT8HIYo8U3hDGgk4CiUqsjwRKfNWQe9H\nQ08jYkuvpuUEJ//EFQE2qQYOqbDB2+31uIwbqA75AoGBANDsEXmGWmSyHjalyLjJ\nWvT/At+C2/wLjB4pdqv8c6SD6usMcHewOSa9OifqovZw/Y+iI5u4qZgs61Fg7A4V\nZfT8jU0qoDS1u4u9X6fYPF08lY/6ityl4nBe9ikWBhlc9oPysY2PYn1WrTekEP9Z\nFmuFlbENSJosPqmvQXVvdvVJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zqhs6@minigun-log-9ac8e.iam.gserviceaccount.com",
+  "client_id": "102015084261341053988",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zqhs6%40minigun-log-9ac8e.iam.gserviceaccount.com"
+}
